@@ -1,0 +1,29 @@
+﻿生成启动时间为 2015/1/13 8:43:52。
+     1>项目“C:\Users\ZhuLiang\documents\visual studio 2010\Projects\OpenCV-Qt4\OpenCV-Qt4\OpenCV-Qt4.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\OpenCV-Qt4.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IE:\Qt\4.8.6\include /I.\GeneratedFiles\Debug /IE:\Qt\4.8.6\include\QtCore /IE:\Qt\4.8.6\include\QtGui /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OpenCVFunction.cpp
+         OpenCVFunction.cpp
+     1>c:\users\zhuliang\documents\visual studio 2010\projects\opencv-qt4\opencv-qt4\opencvfunction.cpp(400): warning C4715: “OpenCVFunction::ForeGround”: 不是所有的控件路径都返回值
+         所有输出均为最新。
+       Link:
+         e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ZhuLiang\documents\visual studio 2010\Projects\OpenCV-Qt4\Win32\Debug\\OpenCV-Qt4.exe" /NOLOGO /LIBPATH:E:\Qt\4.8.6\lib qtmaind.lib QtCored4.lib QtGuid4.lib opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_gpu249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_legacy249d.lib opencv_ml249d.lib opencv_nonfree249d.lib opencv_objdetect249d.lib opencv_ocl249d.lib opencv_photo249d.lib opencv_stitching249d.lib opencv_superres249d.lib opencv_ts249d.lib opencv_video249d.lib opencv_videostab249d.lib opencv_calib3d249.lib opencv_contrib249.lib opencv_core249.lib opencv_features2d249.lib opencv_flann249.lib opencv_gpu249.lib opencv_highgui249.lib opencv_imgproc249.lib opencv_legacy249.lib opencv_ml249.lib opencv_objdetect249.lib opencv_ts249.lib opencv_video249.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OpenCV-Qt4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ZhuLiang\documents\visual studio 2010\Projects\OpenCV-Qt4\Win32\Debug\OpenCV-Qt4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ZhuLiang\documents\visual studio 2010\Projects\OpenCV-Qt4\Win32\Debug\OpenCV-Qt4.lib" /MACHINE:X86 Debug\moc_myclass.obj
+         Debug\qrc_myclass.obj
+         Debug\main.obj
+         Debug\myclass.obj
+         Debug\OpenCVFunction.obj
+         LINK : 没有找到 C:\Users\ZhuLiang\documents\visual studio 2010\Projects\OpenCV-Qt4\Win32\Debug\\OpenCV-Qt4.exe 或上一个增量链接没有生成它；正在执行完全链接
+         OpenCV-Qt4.vcxproj -> C:\Users\ZhuLiang\documents\visual studio 2010\Projects\OpenCV-Qt4\Win32\Debug\OpenCV-Qt4.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\ZhuLiang\documents\visual studio 2010\Projects\OpenCV-Qt4\Win32\Debug\\OpenCV-Qt4.exe;#1" /manifest "Debug\OpenCV-Qt4.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\OpenCV-Qt4.unsuccessfulbuild”。
+         正在对“Debug\OpenCV-Qt4.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\ZhuLiang\documents\visual studio 2010\Projects\OpenCV-Qt4\OpenCV-Qt4\OpenCV-Qt4.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.11
